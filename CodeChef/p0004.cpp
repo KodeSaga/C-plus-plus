@@ -1,10 +1,10 @@
-//Codechef 19th Feb 2019 https://www.codechef.com/COMU2019/problems/WLCDM
+//[incomplete]Codechef 19th Feb 2019 https://www.codechef.com/COMU2019/problems/WLCDM 
 #include <iostream>
 #include<vector>
 using namespace std;
 
 int main() {  
-    int n,ki,j,sum,candle=0;
+    int n,k,i,j,sum,candle=0;
     cin >> n >> k;
     
     vector<int> a(n);
@@ -17,7 +17,7 @@ int main() {
     for(i=0;i<n;i++) {
         cin >> b[i];        
     }
-    c[0]=a[0]+b[0]
+    c[0]=a[0]+b[0];
     for(i=0;i<n;i++) {
         c[i]=a[i]-b[i];        
     }
