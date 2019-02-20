@@ -7,7 +7,10 @@
             "label": "echo",
             "type": "shell",
             "command": "g++",
-            "args": ["-g","DCD/p0005.cpp"],
+        //  "args": ["-g","CodeChef/p0005.cpp"]
+        //  "args": ["-g","Codeforces/p0005.cpp"]
+        //  "args": ["-g","DCC/p0005.cpp"]
+            "args": ["-g","Hackerank/p0005.cpp"],
             "group": {
                 "kind":"build",
                 "isDefault": true
