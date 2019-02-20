@@ -7,7 +7,7 @@
             "label": "echo",
             "type": "shell",
             "command": "g++",
-            "args": ["-g","Codeforces/p0002.cpp"],
+            "args": ["-g","DCD/p0005.cpp"],
             "group": {
                 "kind":"build",
                 "isDefault": true

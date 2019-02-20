@@ -1,4 +1,4 @@
-//CodeForces - 19-02-2019 - https://codeforces.com/contest/1118/problem/A
+//[Complete]CodeForces - 19-02-2019 - https://codeforces.com/contest/1118/problem/A
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,4 @@
-//Problem statement - https://www.codechef.com/COOK103B/problems/TABLET/
+//[Complete]Problem statement - https://www.codechef.com/COOK103B/problems/TABLET/
 #include <iostream>
 #include<fstream>
 using namespace std;
