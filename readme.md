@@ -9,5 +9,7 @@
 | p0007 | **inComplete** | Codechef | Largest substring common between 2 variable length strings. |
 | p0008 | Complete | Codechef | Contraint based counting |
 | p0009 | **inComplete** | Codechef | Solved but Need to improve algo. Digitsum  |
+| p0010 | Complete | Codechef | Averages  |
+| p0011 | Complete | Codechef | Maximiztion under constraints |
 
 If you have a more elegant solution to any of these , do let me know at kode.drama@gmail.com
