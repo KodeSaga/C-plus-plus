@@ -3,9 +3,6 @@
 #include <iostream>
 using namespace std;
 
-#include <iostream>
-using namespace std;
-
 int main() {
 
         long int t,n,k,a,count=0;
